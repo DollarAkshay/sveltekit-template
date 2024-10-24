@@ -42,3 +42,11 @@ Since I am very particular about my Eslint configuration, I added my custom Esli
  - Eslint fix. 
  - Update `README.md` file
  - Commit files to Git and push
+
+### 3. Adding UI Libraries
+```bash
+npm i -D flowbite flowbite-svelte flowbite-svelte-icons
+```
+ - Update `tailwind.config.js` file according to the [Flowbite documentation](https://flowbite-svelte.com/docs/pages/introduction)
+ - Update `README.md` file
+ - Commit files to Git and push
