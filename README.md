@@ -35,3 +35,10 @@ git remote add origin https://github.com/DollarAkshay/sveltekit-template.git
  - Delete `.npmrc` file
  - Update `README.md` file
  - Commit files to git and push
+
+### 2. Eslint and typechecking configuration
+Since I am very particular about my Eslint configuration, I added my custom Eslint configuration to the project.
+ - *paste my config file* into eslint.config.js
+ - Eslint fix. 
+ - Update `README.md` file
+ - Commit files to Git and push
