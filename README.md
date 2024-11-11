@@ -50,3 +50,5 @@ npm i -D flowbite flowbite-svelte flowbite-svelte-icons
  - Update `tailwind.config.js` file according to the [Flowbite documentation](https://flowbite-svelte.com/docs/pages/introduction)
  - Update `README.md` file
  - Commit files to Git and push
+
+ # For further changes please refer to the commit history
